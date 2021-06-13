@@ -3,7 +3,11 @@
 - 🌱 Learning DL and Webtech
 - 💞️ Software Development Projects
 - 📫 dhruvsri@usc.edu
- [![Dhruv's GitHub stats](https://github-readme-stats.vercel.app/api?username=DhruvSrivastava-16)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+[![Dhruv's GitHub stats](https://github-readme-stats.vercel.app/api?username=DhruvSrivastava-16)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!---
