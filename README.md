@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @DhruvSrivastava-16
-- 👀 Interested in working on open source products for the public
-- 🌱 Learning DL and Webtech
+- 👋 Hi, I’m Dhruv Srivastava
+- 👀 Interested in working as a software developer
+- 🌱 Learning web-development, machine learning and NLP
 - 💞️ Software Development Projects
 - 📫 dhruvsri@usc.edu
 
